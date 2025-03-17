@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Nancy Kepner, I'm currently on my journey to become a software developer!
+<p> I'm a techelevator student learning FullStack Web development as of March 17 2025.  </p>
+<p> The last project I was working on was a Music Library Management app for the Unitarian Universalist of the North Hills. </p>
+<p> Another project I'm super interested in developing is a gamefied productivity app</p>
+<p> Ask me about my YouTube channel... it's not tech related but it's fun! </p>
+<p> My pronouns are she/her/they/them </p>
+<p> You can reach me at nkepner@gmail.com </p>

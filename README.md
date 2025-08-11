@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <p> The last project I was working on was a Music Library Management app for the Unitarian Universalist of the North Hills. </p>
 <p> Another project I'm super interested in developing is a gamefied productivity app</p>
 <p> Ask me about my YouTube channel... it's not tech related but it's fun! </p>
-<p> My pronouns are she/her/they/them </p>
+<p> My pronouns are she/they </p>
 <p> You can reach me at nkepner@gmail.com </p>
